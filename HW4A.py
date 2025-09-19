@@ -226,5 +226,5 @@ def main():
             break
         elif isWon == 2:
             print("O Wins!!")
-            break
+            break 
 main()
